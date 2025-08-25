@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋, I'm a computer engineer turned DevOps specialist.</h1>
+<h1 align="center">Hey there👋, I'm a Mechanical engineer turned DevOps specialist.</h1>
 
 <div align="center">
   <img src="https://github.com/Chaitanya-Garud/Namma_Yatri/blob/main/CG_Banner_Final.png" alt="Banner">
@@ -31,8 +31,7 @@
 
 #### 👨‍💼 About Me
 
-- 🌏 Based in Nashik, India
-- 📧 Email: chaitanyagarud019@gmail.com
+- 📧 Email: chiragshewale995@gmail.com
 - 💼 Currently working as a Technical Support Engineer
 - ⚡ 1.2 years of experience working with cloud admin, DNS, website/email migrations & devops automation
 
